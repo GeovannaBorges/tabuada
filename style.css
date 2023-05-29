@@ -1,0 +1,65 @@
+section {
+    width: 400px;
+    padding: 2px;
+   
+}
+
+body {
+    background-color:rgb(114, 153, 47);
+}
+
+h1 {
+    font-family: gloock;
+    letter-spacing: 3px;
+    color: white;
+    font-size: 25px;
+    font-style: italic;
+    text-shadow: 1px 1px 1px black;
+}
+
+P {
+    font-family: gloock;
+    font-weight: 600;
+    margin-left: 110px;
+}
+
+input {
+    margin-left: 4px;
+    border-radius: 7px;
+    border: none;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.733);
+}
+
+#tab {
+    margin-top: 20px;
+    font-family: gloock;
+    border-radius: 7px;
+    color: darkgreen;
+    text-shadow: 0px 0px 1px black;
+    font-size: 14px;
+    text-shadow: 0px 0px 1px black;
+    padding: 16px;
+}
+
+button {
+    border-radius: 7px;
+    border-radius: 7px;
+    border: none;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.733);
+    font-family: gloock;
+    padding: 7px;
+    font: normal 14px gloock;
+    font-weight: 600;
+    background-color: white;
+    transition: all 0.2s;
+    
+    
+}
+
+button:hover {
+   color: rgb(35, 99, 35);
+}
+
+button:active {
+    opacity: 0.7;
+}
